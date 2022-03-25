@@ -27,7 +27,7 @@
 
   * 萌芽（1969-1990）：个人和大学（GNU/Linux）
   * 成型（1990-2005）：非盈利组织：基金会（Linux 基金会、Apache 基金会、Eclipse 基金会）
-  * 快速发展（2005-至今）：大型 IT 企业，各行种业现代企业都参与到开源产业中，如 intel、IBM、Google等，也产出了很多开源项目，如 openstack、cloudfoundry 等，包括华为的 openEuler、Mindspore 等，这些项目创新引领技术和商业的前进。
+  * 快速发展（2005-至今）：大型 IT 企业，各行种业现代企业都参与到开源产业中，如 Intel、IBM、Google等，也产出了很多开源项目，如 openstack、cloudfoundry 等，包括华为的 openEuler、Mindspore 等，这些项目创新引领技术和商业的前进。
 
 ## 开源不等于免费
 
