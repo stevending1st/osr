@@ -65,7 +65,7 @@
   * Facebook 在 Github 上发布了一系列开源项目，其中如 React、Fresco 等，由于其先进的技术和宽松的 License（BSD）使得其项目广受用户欢迎。
   * Facebook 在其 BSD License 之外，还额外增加一份专利授权 License，将这些软件可能存在的 Facebook 专利授权给用户使用，但也正是这份专利 License，给这些软件的商业应用埋下了“地雷”，甚至 Apache 基金会甚至禁止 Facebook 的软件或代码进入 Apache 项目。
 * 解析：
-  * Facebook 这份专利授权 License 除了授予用户使用其专利的权利外，还增加了对 Facebook 的专利保护条款，即如果A公司使用了该软件，那么如果 Facebook 在其业务范围内与 A 公司有任何其他专利冲突，A 公司则不得向 Facebook 发起专利诉讼，导致 A 公司无法保护自身的专利。
+  * Facebook 这份专利授权 License 除了授予用户使用其专利的权利外，还增加了对 Facebook 的专利保护条款，即如果 A 公司使用了该软件，Facebook 在其业务范围内与 A 公司有任何其他专利冲突，A 公司则不得向 Facebook 发起专利诉讼，这导致 A 公司无法保护自身的专利。
 * 启示：
   * 某些开源项目表面声明的 License 看似“宽松”，但可能潜藏风险，产品在引入开源软件时应获取其完整的 License。
   * 若无法确定 License 风险， 可先向法务部咨询，评估风险后再决定引入。
